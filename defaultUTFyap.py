@@ -5,8 +5,9 @@
 
 import sys
 print sys.getdefaultencoding()
+#sys.setdefaultencoding('utf-8')
+
+# bu kısımda hata alırsanız aşağıdaki kodları açın
+reload(sys)
 sys.setdefaultencoding('utf-8')
 print sys.getdefaultencoding()
-# bu kısımda hata alırsanız aşağıdaki kodları açın
-#reload(sys)
-#sys.setdefaultencoding('utf-8')
