@@ -1,0 +1,3 @@
+LINKLER:
+1. http://ysar.net/python/git-ve-github.html	(Git ve Github hakkýnda giriþ)
+2.
